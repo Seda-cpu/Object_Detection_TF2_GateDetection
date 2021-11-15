@@ -1,6 +1,5 @@
 # Object_Detection_TF2_GateDetection
-İts the first task of TeknoFest 2021 which is a technology competition in turkey. 
-We get ready for autonomous underwater vehicles category.
+İts the first task of TeknoFest 2021 underwater vehicles category which is a technology competition in turkey. 
 
 
 **Dataset**
